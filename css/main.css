@@ -1,0 +1,108 @@
+html, body {    
+    background-image: url("../img/background.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;    
+    z-index: -1;
+    height: 100%;    
+}
+
+.container-custom {
+    height: 75px;
+    line-height: 75px;
+}
+
+.header {
+    height: 70%;
+    position: relative;
+    text-align: center;
+    top: 20%;
+}
+
+.about {
+    background-color: white;
+    height: 700px;        
+}
+
+.about h1 {
+    font-size:50px;
+    padding-top: 50px;
+}
+
+.about hr {
+  color: black;
+  margin-top:30px;
+  background-color: black;
+  height: 1px;
+  width: 340px;
+  border:0;
+}
+
+.portfolio {
+    background-color: #4B0082;
+    height: 1400px;        
+}
+
+.portfolio h1 {
+    font-size:50px;
+    padding-top: 50px;
+}
+
+.portfolio hr {
+  color: white;
+  margin-top:30px;
+  background-color: white;
+  height: 1px;
+  width: 340px;
+  border:0;
+}
+
+.contact {
+    background-color: white;
+    height: 550px;        
+}
+
+.contact h1 {
+    font-size:50px;
+    padding-top: 50px;
+}
+
+.contact hr {
+  color: black;
+  margin-top:30px;
+  background-color: black;
+  height: 1px;
+  width: 340px;
+  border:0;
+}
+
+.footer {    
+    height: 100px;
+}
+
+.margint {    
+    margin-top: 25px;
+}
+
+.margint2 {
+    margin-top: 50px;
+}
+
+.paddingt {
+    padding-top: 25px;
+}
+
+.paddingt2 {
+    padding-top: 50px;
+}
+
+i.fa {
+  display: inline-block;
+  border-radius: 100px;
+  box-shadow: 0px 0px 2px #888;
+  padding: 0.5em 0.6em;
+}
+
+i.fa:hover {
+    background-color: #00BFFF;
+}

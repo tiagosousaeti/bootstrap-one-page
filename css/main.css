@@ -80,6 +80,18 @@ html, body {
     height: 100px;
 }
 
+.font {
+  font-size: 18pt;
+}
+
+.marginl {
+    margin-left: 100px;
+}
+
+.marginr {
+    margin-right: 100px;
+}
+
 .margint {    
     margin-top: 25px;
 }

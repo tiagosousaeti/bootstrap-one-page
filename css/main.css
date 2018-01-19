@@ -86,7 +86,11 @@ html, body {
 }
 
 .footer {    
-    height: 100px;
+    height: 250px;
+}
+
+.text-decoration {
+    text-decoration: none;
 }
 
 .font {

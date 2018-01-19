@@ -10,7 +10,7 @@
 - Font-Awesome 4
 
 ## Version
-1.0.4
+1.0.6
 
 ## Social Network
 [![Twitter Follow](https://img.shields.io/twitter/follow/tiaguins.svg?style=social)](https://twitter.com/tiaguins) 
